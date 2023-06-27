@@ -1,0 +1,56 @@
+ point to be keep in mind!
+=========================================================
+1.) Virus & Malware Detection # done
+2.) Scanning Files #done
+3.) MaltiScannig Files
+4.) Junk File Detection & Remover #done
+5.) Temp file Remover. #done
+6.) System Memory Health Checker
+7.) System Health Checker
+8.) Ram Health Checker
+9.) Real Time Protection
+10.) System activity Monitor
+11.) Malicious File Detector
+12.) Internet Protection
+13.) E-mail Checker
+14.) Website Checker
+15.) Virus Checker on SHA256 hash
+16.)Al Engine to detect New pattern of virus
+17.) Al Engine to user activity. Monitor and learn how to friendly with user
+20.) Al engine to learn new pattern of malicious file
+21.) Auto system error fixing when it will possible
+
+
+################################################# 
+1. Virus Detection: The priamry function of antivirus software is to detect and remove computer viruses
+2. System Anaysis
+3. Malware Removal
+4. File Quarantine
+5. Threat identification
+6. Online Security
+7. Data Protection
+8. Junk file Cleaning
+
+# junk file source
+1. temp
+2. %temp%
+3.prefetch 
+##################################################################################
+// for GUI algorithm 
+Create a GUI antivirus in python  which include:
+
+1. A button that allow you to select a specific folder you want to scan without modification
+
+2.Quarantine button and when pressed to move all the found Malware to a specific
+place when are Quarantine.
+
+3. Result button , when pressed to display all the Malware that has been found
+
+4. The antivirus needs to run on a signature base and must have FatRat signature.
+
+5. Display box where it shows you that the program is actually running when you 
+
+
+
+
+1e3a6276bf05c72fb5e6c6c3712a942bf8ae302820324d33d13d26e1eac6386b- virus.png

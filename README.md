@@ -2,6 +2,7 @@
 DenGuard Antivirus is a comprehensive antivirus solution that integrates both powerful backend functionality and a user-friendly graphical interface (GUI). This project offers features like malware scanning, virus removal, junk file cleaning, and RAM optimization, making it a valuable tool for enhancing both system security and performance.
 
 **Features**
+
 **1. Virus Scanner**
 The virus scanner identifies malware by computing the SHA256 hash of each file in a specified directory. This hash is compared against a predefined list of known malware hashes stored in the virusHash.denvit file. If a match is found, the malware is flagged, and its details are logged from the virusInfo.denvit file.
 
